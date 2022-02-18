@@ -1,16 +1,39 @@
-### Hi there 👋
+## Hello World 👋
 
-<!--
-**Valexy6/Valexy6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a front-end developer student in Develhope, I am also a student of International Relations and a lover of techonologies :computer: and geopolitcs :earth_americas: 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Who am I?
+ ```javascript
+ class WhoAmI:
+	user = 'Valerio Ballerò'
+   	current_edu = "University of Turin"
+    
+      	hobbies = [
+   			'Videogames',
+                        'Photography'
+   			'Watching movies',
+   			'Learning languages'
+   			'Reading Journal of Geopolitics'
+   		]
+		
+		function getCity():
+   	return Palermo_Italia()
+   
+   function Ambitions():
+   	LearnChinese()
+   	LearnPlayingGuitar()
+   	TryingAllTecnologies()
+   	# /* I am currently adding new ambitions ;) */
+       ```
+
+
+## Programming Languages
+
+<img src = 'https://github.com/Valexy6/Valexy6/blob/master/images/js.svg' width='30'/><img src = 'https://github.com/Valexy6/Valexy6/blob/master/images/bootstrap.svg' width='33'/><img src = 'https://github.com/Valexy6/Valexy6/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/Valexy6/Valexy6/blob/master/images/css.svg' width='30'/>
+
+
+## Technologies I Use
+
+<img src = 'https://github.com/Valexy6/Valexy6/blob/master/images/git.svg' width='30'/>
