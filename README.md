@@ -32,9 +32,9 @@
 
 ## Programming Languages
 
-<img src = 'https://github.com/Valexy6/Valexy6/blob/master/images/js.svg' width='30'/><img src = 'https://github.com/Valexy6/Valexy6/blob/master/images/bootstrap.svg' width='33'/><img src = 'https://github.com/Valexy6/Valexy6/blob/master/images/html.svg' width='30'/> <img src = 'https://github.com/Valexy6/Valexy6/blob/master/images/css.svg' width='30'/>
+<img src = 'https://github.com/Valexy6/Valexy6/blob/main/images/js.svg' width='30'/><img src = 'https://github.com/Valexy6/Valexy6/blob/main/images/bootstrap.svg' width='33'/><img src = 'https://github.com/Valexy6/Valexy6/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/Valexy6/Valexy6/blob/main/images/css.svg' width='30'/>
 
 
 ## Technologies I Use
 
-<img src = 'https://github.com/Valexy6/Valexy6/blob/master/images/git.svg' width='30'/>
+<img src = 'https://github.com/Valexy6/Valexy6/blob/main/images/git.svg' width='30'/>
