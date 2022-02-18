@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-valerio.ballaroxy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valerio.ballaroxy@gmail.com)](mailto:valerio.ballaroxy@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Valexy6" alt="Valexy6" /> </p>
 
 ## I'm a front-end developer student in Develhope, I am also a student of International Relations and a lover of techonologies :computer: and geopolitcs :earth_americas: 
 
