@@ -1,5 +1,9 @@
 ## Hello World 👋
 
+[![Gmail Badge](https://img.shields.io/badge/-valerio.ballaroxy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valerio.ballaroxy@gmail.com)](mailto:valerio.ballaroxy@gmail.com)
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Valexy6&layout=compact">
+
 ## I'm a front-end developer student in Develhope, I am also a student of International Relations and a lover of techonologies :computer: and geopolitcs :earth_americas: 
 
 
@@ -7,24 +11,23 @@
 ## Who am I?
  ```javascript
  class WhoAmI:
-	user = 'Valerio Ballerò'
-   	current_edu = "University of Turin"
-    
-      	hobbies = [
-   			'Videogames',
-                        'Photography'
-   			'Watching movies',
-   			'Learning languages'
-   			'Reading Journal of Geopolitics'
-   		]
+	     user = 'Valerio Ballerò'
+   	     current_edu = "University of Turin"
+         hobbies = [
+   			         'Videogames',
+                     'Photography',
+   			         'Watching movies',
+   			         'Learning languages',
+   			         'Reading Journal of Geopolitics'
+   		        ]
 		
-		function getCity():
-   	return Palermo_Italia()
+function getCity():
+   	    return Palermo_Italia()
    
-   function Ambitions():
-   	LearnChinese()
-   	LearnPlayingGuitar()
-   	TryingAllTecnologies()
+function Ambitions():
+   	      LearnChinese()
+   	      LearnPlayingGuitar()
+   	      TryingAllTecnologies()
    	 /* I am currently adding new ambitions */
 
 ```
