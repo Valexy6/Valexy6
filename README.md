@@ -11,15 +11,15 @@
 ## Who am I?
  ```javascript
  class WhoAmI{
-	     user = 'Valerio Ballarò'
-   	     current_edu = "University of Turin"
-         hobbies = [
-   			         'Videogames',
-                     'Photography',
-   			         'Watching movies',
-   			         'Learning languages',
-   			         'Reading Journal of Geopolitics'
-   		        ]
+     user = 'Valerio Ballarò'
+     current_edu = "University of Turin"
+     hobbies = [
+             'Videogames',
+             'Photography',
+             'Watching movies',
+             'Learning languages',
+             'Reading Journal of Geopolitics'
+     ]
  }
 		
 function getCity(){
