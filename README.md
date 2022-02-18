@@ -25,8 +25,9 @@
    	LearnChinese()
    	LearnPlayingGuitar()
    	TryingAllTecnologies()
-   	# /* I am currently adding new ambitions ;) */
-       ```
+   	 /* I am currently adding new ambitions */
+
+```
 
 
 ## Programming Languages
