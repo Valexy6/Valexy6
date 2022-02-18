@@ -2,9 +2,6 @@
 
   
 
-[![Gmail Badge](https://img.shields.io/badge/-valerio.ballaroxy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valerio.ballaroxy@gmail.com)](mailto:valerio.ballaroxy@gmail.com)
-
-  
 
 <img  src="https://komarev.com/ghpvc/?username=Valexy6"  alt="Valexy6"  />  </p>
 
@@ -64,3 +61,10 @@ function  Ambitions() {
   
 
 <img  src = 'https://github.com/Valexy6/Valexy6/blob/main/images/git.svg'  width='30'/>
+
+
+
+
+## Contacts
+
+[![Gmail Badge](https://img.shields.io/badge/-valerio.ballaroxy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valerio.ballaroxy@gmail.com)](mailto:valerio.ballaroxy@gmail.com)
