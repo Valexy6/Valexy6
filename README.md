@@ -2,7 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-valerio.ballaroxy@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valerio.ballaroxy@gmail.com)](mailto:valerio.ballaroxy@gmail.com)
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Valexy6&layout=compact">
+<img src="https://komarev.com/ghpvc/?username=MarikIshtar007" alt="MarikIshtar007" /> </p>
 
 ## I'm a front-end developer student in Develhope, I am also a student of International Relations and a lover of techonologies :computer: and geopolitcs :earth_americas: 
 
@@ -36,6 +36,8 @@ function Ambitions():
 ## Programming Languages
 
 <img src = 'https://github.com/Valexy6/Valexy6/blob/main/images/js.svg' width='30'/><img src = 'https://github.com/Valexy6/Valexy6/blob/main/images/bootstrap.svg' width='33'/><img src = 'https://github.com/Valexy6/Valexy6/blob/main/images/html.svg' width='30'/> <img src = 'https://github.com/Valexy6/Valexy6/blob/main/images/css.svg' width='30'/>
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Valexy6&layout=compact">
 
 
 ## Technologies I Use
