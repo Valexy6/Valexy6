@@ -10,8 +10,8 @@
 
 ## Who am I?
  ```javascript
- class WhoAmI:
-	     user = 'Valerio Ballerò'
+ class WhoAmI{
+	     user = 'Valerio Ballarò'
    	     current_edu = "University of Turin"
          hobbies = [
    			         'Videogames',
@@ -20,15 +20,18 @@
    			         'Learning languages',
    			         'Reading Journal of Geopolitics'
    		        ]
+ }
 		
-function getCity():
+function getCity(){
    	    return Palermo_Italia()
+}
    
-function Ambitions():
+function Ambitions(){
    	      LearnChinese()
    	      LearnPlayingGuitar()
    	      TryingAllTecnologies()
    	 /* I am currently adding new ambitions */
+}
 
 ```
 
