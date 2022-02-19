@@ -47,14 +47,21 @@ function  Ambitions() {
 
   
 
-<img  src = 'https://github.com/Valexy6/Valexy6/blob/main/images/html.svg'  width='30'/><img  src = 'https://github.com/Valexy6/Valexy6/blob/main/images/css.svg'  width='30'/><img  src = 'https://github.com/Valexy6/Valexy6/blob/main/images/bootstrap.svg'  width='33'/><img  src = 'https://github.com/Valexy6/Valexy6/blob/main/images/js.svg'  width='30'/><img  src = 'https://github.com/Valexy6/Valexy6/blob/main/images/angular.svg'  width='120'  height='30'/>
+<img  src = 'https://github.com/Valexy6/Valexy6/blob/main/images/html.svg'  width='30'/><img  src = 'https://github.com/Valexy6/Valexy6/blob/main/images/css.svg'  width='30'/><img  src = 'https://github.com/Valexy6/Valexy6/blob/main/images/bootstrap.svg'  width='33'/><img  src = 'https://github.com/Valexy6/Valexy6/blob/main/images/js.svg'  width='30'/>
 
   
 
 <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Valexy6&layout=compact">
 
+
+
+## Framework
   
-  
+
+
+<img  src = 'https://github.com/Valexy6/Valexy6/blob/main/images/angular.svg'  width='120'  height='30'/><img  src = 'https://github.com/Valexy6/Valexy6/blob/main/images/bootstrap.svg'  width='33'/>
+
+
 
 ## Technologies I Use
 
