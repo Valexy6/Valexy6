@@ -7,7 +7,7 @@
 
   
 
-## I'm a front-end developer student in Develhope, I am also a student of International Relations and a lover of techonologies :computer: and geopolitcs :earth_americas:
+## I'm a Data Analyst/web dev, I am also a student of International Relations and a lover of techonologies :computer: and geopolitcs :earth_americas:
 
   
   
